@@ -1,3 +1,5 @@
+
+//AUTOR MORA GUZMAN JOSE ANTONIO 
 //BIBLIOTECAS A UTILIZAR 
 import java.net.Socket;
 import java.net.ServerSocket;
